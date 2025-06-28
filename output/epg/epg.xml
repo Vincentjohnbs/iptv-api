@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250628035941 +0800">
+<tv date="20250628103612 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -29484,6 +29484,15 @@
 	<programme channel="黑莓动画" start="20250628101100 +0800" stop="20250628115900 +0800">
 		<title lang="zh">银翼的魔术师 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250628115900 +0800" stop="20250628135500 +0800">
+		<title lang="zh">战栗的乐谱 中文版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250628135500 +0800" stop="20250628153600 +0800">
+		<title lang="zh">天空的遇难船 中文版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250628153600 +0800" stop="20250628172500 +0800">
+		<title lang="zh">沉默的15分钟 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -29507,6 +29516,18 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250628094200 +0800" stop="20250628110700 +0800">
 		<title lang="zh">神奇乐园历险记</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250628110700 +0800" stop="20250628124200 +0800">
+		<title lang="zh">兴隆山下菜花香</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250628124200 +0800" stop="20250628142900 +0800">
+		<title lang="zh">百团大战</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250628142900 +0800" stop="20250628155800 +0800">
+		<title lang="zh">李可乐寻人记</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250628155800 +0800" stop="20250628172900 +0800">
+		<title lang="zh">无懈可击</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
